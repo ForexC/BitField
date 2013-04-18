@@ -1,5 +1,9 @@
 #BitField
 
+**PeerCDN Note**: Our only addition is Google Closure annotations.
+
+----
+
 a very simple bitfield
 
     npm install bitfield
