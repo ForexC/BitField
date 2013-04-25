@@ -1,6 +1,8 @@
 #BitField
 
-**PeerCDN Note**: Our only addition is Google Closure annotations.
+**PeerCDN Note**: Our additions:
+- Google Closure annotations
+- Style changes
 
 ----
 
